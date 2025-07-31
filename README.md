@@ -6,13 +6,7 @@ This Streamlit web app predicts the quality of red wine based on its physicochem
 
 ## 🚀 Demo
 
-Try it live (if deployed): [Streamlit Cloud Link](#) *(Add your deployed link here)*
-
----
-
-## 📂 Project Structure
-
-
+Try it live : https://winequalityprediction-app-fhsnqwqxfn3dq3itnvijnz.streamlit.app/
 
 ---
 
